@@ -1,0 +1,4 @@
+/pong
+/web/*.wasm
+/.vscode/
+.DS_Store
